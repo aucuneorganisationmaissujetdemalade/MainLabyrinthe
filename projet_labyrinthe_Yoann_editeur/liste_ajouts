@@ -1,0 +1,9 @@
+Ajouts liste du Labyrinthe
+
+	Yoann 02/02/2019
+-Menu graphique cliquable
+-editeur operationnel a part la sortie qui est tjr pas dans un mur
+-Modif endroit sortie
+-modif case sortie = 'v'
+-ajout du bouton valider de l'editeur ->travail terminé
+
